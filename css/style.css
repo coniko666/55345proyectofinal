@@ -1,3 +1,8 @@
 body{
-    background-image:url(../img/95a5310043f0d315ffb292de2a81a082.jpg);
+    background-image:url(../img/fondonegrocuadritos.jpg);
+    font-family:'Balsamiq-Sans', 'Sacramento' cursive;
+}
+
+img, h4 {
+    padding: 20px;
 }
